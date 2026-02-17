@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Time of Dying",
+  "base_artist": "Three Days Grace",
+  "createdAt": "2026-02-17T11:58:46.320403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In My Time of Dying - 1990 Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/01_In_My_Time_of_Dying_-_1990_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In My Time Of Dying",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/02_In_My_Time_Of_Dying_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In My Time of Dying",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/03_In_My_Time_of_Dying_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In My Time of Dying",
+      "artist": "Jimmy Page",
+      "has_synced": false,
+      "path": "select/04_In_My_Time_of_Dying_Jimmy_Page.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Time of Dying",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/05_Time_of_Dying_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In My Time of Dying",
+      "artist": "Jimmy Page & The Black Crowes",
+      "has_synced": false,
+      "path": "select/06_In_My_Time_of_Dying_Jimmy_Page_&_The_Black_Crowes.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In My Time of Dying (Initial / Rough Mix)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/07_In_My_Time_of_Dying_(Initial___Rough_Mix)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Time of Dying",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/08_Time_of_Dying_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In My Time of Dying",
+      "artist": "Black Label Society",
+      "has_synced": false,
+      "path": "select/09_In_My_Time_of_Dying_Black_Label_Society.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "In My Time Of Dying",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/10_In_My_Time_Of_Dying_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In My Time Of Dying",
+      "artist": "John Mellencamp",
+      "has_synced": false,
+      "path": "select/11_In_My_Time_Of_Dying_John_Mellencamp.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In My Time of Dying",
+      "artist": "Shocking Blue",
+      "has_synced": false,
+      "path": "select/12_In_My_Time_of_Dying_Shocking_Blue.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In My Time Of Dying",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/13_In_My_Time_Of_Dying_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In My Time Of Dying",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/14_In_My_Time_Of_Dying_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "In My Time of Dying (Live)",
+      "artist": "Led Zeppelin",
+      "has_synced": false,
+      "path": "select/15_In_My_Time_of_Dying_(Live)_Led_Zeppelin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Time Of Dying",
+      "artist": "Three Days Grace",
+      "has_synced": false,
+      "path": "select/pl_01_Time_Of_Dying_Three_Days_Grace.txt"
+    }
+  ]
+}
